@@ -1,0 +1,9 @@
+smolagents
+ollama
+huggingface_hub
+litellm
+markdownify 
+duckduckgo-search
+transformers
+beautifulsoup4
+requests
